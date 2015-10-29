@@ -9,11 +9,6 @@ This document will provide information about the Apple Watch and integrating int
 ##Unboxing 
 Teams interested in accepting the Vantiv Vantiv API Challenge at the 2015 Money2020 Hackathon in Las Vegas will receive an [Apple Watch](http://www.apple.com/watch) on a first come basis. **Supplies are limited.**
 
-<<<<<<< HEAD
-=======
-![Apple Watch](https://github.com/vantivlabs/AppleWatch/blob/master/images/IMG_0036.png)
->>>>>>> origin/master
-
 ##<a name=setup></a>Setup
 Super simple. Launch the Watch app on your iOS device and follow the instructions. Took me less then 3 minutes to set up.
 
