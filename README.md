@@ -9,11 +9,15 @@ This document will provide information about the Apple Watch and integrating int
 ##Unboxing 
 Teams interested in accepting the Vantiv Vantiv API Challenge at the 2015 Money2020 Hackathon in Las Vegas will receive an [Apple Watch](http://www.apple.com/watch) on a first come basis. **Supplies are limited.**
 
+<<<<<<< HEAD
+=======
+![Apple Watch](https://github.com/vantivlabs/AppleWatch/blob/master/images/IMG_0036.png)
+>>>>>>> origin/master
 
 ##<a name=setup></a>Setup
 Super simple. Launch the Watch app on your iOS device and follow the instructions. Took me less then 3 minutes to set up.
 
-![Apple Watch](https://github.com/MercuryPay/AppleWatch/blob/master/images/IMG_2770.PNG)
+![Apple Watch](https://github.com/vantivlabs/AppleWatch/blob/master/images/IMG_2770.PNG)
 
 For more details on setting up the Apple Watch with your iOS device [check this link out.](https://support.apple.com/en-us/HT204505)
 
@@ -59,3 +63,5 @@ WHEN VICTOR SEE HIS CLIENT WALKING BACK HE WANT TO COMPLETE HIS CURRENT LEVEL, S
 
 - - -
 Take me back to the [Top](#top)
+
+Apple, AppleWatch, iPhone, and iOS are registered or unregistered marks belonging to their respective owners who are unaffiliated with and do not endorse or sponsor Vantiv, and Vantiv likewise does not endorse or sponsor Apple, AppleWatch, iPhone, or iOS.
