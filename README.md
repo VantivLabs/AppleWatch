@@ -1,4 +1,4 @@
-#<a name=top></a> AppleWatch
+﻿#<a name=top></a> AppleWatch
 Take me to [Setup](#setup) | [Pre-Reqs](#pre) | [Code](#code) | [Links](#links) | [Use Cases](#c1)
 
 - - -
@@ -9,7 +9,6 @@ This document will provide information about the Apple Watch and integrating int
 ##Unboxing 
 Teams interested in accepting the Vantiv Vantiv API Challenge at the 2015 Money2020 Hackathon in Las Vegas will receive an [Apple Watch](http://www.apple.com/watch) on a first come basis. **Supplies are limited.**
 
-![Apple Watch](https://github.com/MercuryPay/AppleWatch/blob/master/images/IMG_0036.png)
 
 ##<a name=setup></a>Setup
 Super simple. Launch the Watch app on your iOS device and follow the instructions. Took me less then 3 minutes to set up.
