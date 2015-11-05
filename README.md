@@ -61,7 +61,7 @@ Take me back to the [Top](#top)
 
 #Legal Stuff
 
-[https://vantiv.com/privacy-policy Privacy Policy, Copyright Notices, and Terms of Use]
+[Privacy Policy, Copyright Notices, and Terms of Use](https://vantiv.com/privacy-policy)
 
 
 Apple, AppleWatch, iPhone, and iOS are registered or unregistered marks belonging to their respective owners who are unaffiliated with and do not endorse or sponsor Vantiv, and Vantiv likewise does not endorse or sponsor Apple, AppleWatch, iPhone, or iOS.
